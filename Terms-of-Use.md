@@ -23,7 +23,7 @@ Our app also allows you to monitor the latency on any IP address. By using this 
 
 To continue using the app after the free trial ends, you must pay by ZainCash. The payment amount will be displayed in the app. Payment must be made in full 
 
-    Intellectual Property
+## Intellectual Property
 
 The app and its content (Except the Images of Devices and the some Icons) are owned by us and are protected by copyright, and other laws. You may not reproduce, modify, distribute, or otherwise exploit any part of the app or its content without our prior written consent.
 
@@ -48,5 +48,5 @@ We reserve the right to modify these terms of service at any time. You should re
 
     Termination
         
-### We may terminate your account and/or your access to the app at any time, without notice, for any reason 
+    We may terminate your account and/or your access to the app at any time, without notice, for any reason 
 
