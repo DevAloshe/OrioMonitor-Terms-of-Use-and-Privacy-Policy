@@ -6,7 +6,7 @@ This Privacy Policy describes how your personal information is collected, used, 
 
 ### Information We Collect
 
-# When you download, install, and use the App, we may collect certain information from you:
+## When you download, install, and use the App, we may collect certain information from you:
 
 Account Information: When you create an account within the App using your email address, password, or through Google Account sign-in, we collect the information necessary to provide you access to the App.
 Device Information: We may collect information about the devices you add to the App, such as device names, types (e.g., ubiquity devices, mikrotik, mimosa), and related information. This information will be stored in Google Firebase.
@@ -30,12 +30,12 @@ Service Providers: We may engage third-party service providers to assist with ap
 Legal Compliance: We may disclose your information to comply with applicable laws, regulations, legal processes, or governmental requests.
 Your Choices
 
-### Device Information: You can choose to delete devices from the App's settings. You can also disable the auto-sync feature to prevent device information from being saved to
-### Remote Servers.
-### Subscription: After the free trial, you must subscribe to continue using the App's premium features. Payments are processed through ZainCash.
-### Account Deletion: You can request the deletion of your account and associated data by contacting us at oriomonitor@gmail.com.
-### One-Time Purchase: You have the option to make one-time purchases to buy point spaces for organizing your devices into groups.
-### Contact Us
+ Device Information: You can choose to delete devices from the App's settings. You can also disable the auto-sync feature to prevent device information from being saved to
+ Remote Servers.
+ Subscription: After the free trial, you must subscribe to continue using the App's premium features. Payments are processed through ZainCash.
+ Account Deletion: You can request the deletion of your account and associated data by contacting us at oriomonitor@gmail.com.
+ One-Time Purchase: You have the option to make one-time purchases to buy point spaces for organizing your devices into groups.
+ Contact Us
 
 If you have any questions, concerns, or requests regarding your personal information, this Privacy Policy, or the App's practices, please contact us at oriomonitor@gmail.com.
 
