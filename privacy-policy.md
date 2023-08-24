@@ -30,11 +30,12 @@ Service Providers: We may engage third-party service providers to assist with ap
 Legal Compliance: We may disclose your information to comply with applicable laws, regulations, legal processes, or governmental requests.
 Your Choices
 
-# Device Information: You can choose to delete devices from the App's settings. You can also disable the auto-sync feature to prevent device information from being saved to Remote Servers.
-# Subscription: After the free trial, you must subscribe to continue using the App's premium features. Payments are processed through ZainCash.
-# Account Deletion: You can request the deletion of your account and associated data by contacting us at oriomonitor@gmail.com.
-# One-Time Purchase: You have the option to make one-time purchases to buy point spaces for organizing your devices into groups.
-# Contact Us
+### Device Information: You can choose to delete devices from the App's settings. You can also disable the auto-sync feature to prevent device information from being saved to
+### Remote Servers.
+### Subscription: After the free trial, you must subscribe to continue using the App's premium features. Payments are processed through ZainCash.
+### Account Deletion: You can request the deletion of your account and associated data by contacting us at oriomonitor@gmail.com.
+### One-Time Purchase: You have the option to make one-time purchases to buy point spaces for organizing your devices into groups.
+### Contact Us
 
 If you have any questions, concerns, or requests regarding your personal information, this Privacy Policy, or the App's practices, please contact us at oriomonitor@gmail.com.
 
