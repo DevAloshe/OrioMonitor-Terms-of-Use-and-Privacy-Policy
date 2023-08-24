@@ -1,1 +1,1 @@
-### Terms of Use and OrioMonitor Privacy Policy
+## OrioMonitor Terms of Use and Privacy Policy
