@@ -14,7 +14,7 @@ Usage Data: We may collect usage information, such as interactions with the App,
 Payment Information: If you choose to subscribe to the App's premium features, we collect payment information through the ZainCash service. This information is used solely for processing your payments.
 How We Use Your Information
 
-## We use the collected information to:
+### We use the collected information to:
 
 Provide and maintain the App's functionality.
 Manage user accounts and provide access to the App.
@@ -23,7 +23,7 @@ Process payments for subscription services.
 Analyze user behavior to improve the App's features and user experience.
 Information Sharing
 
-## We do not share your personal information with third parties, except in the following cases:
+### We do not share your personal information with third parties, except in the following cases:
 
 Analytics: We may use anonymized and aggregated data for analytics purposes to understand usage patterns, trends, and preferences.
 Service Providers: We may engage third-party service providers to assist with app development, maintenance, payment processing, and analytics. These providers are contractually obligated to protect your information.
