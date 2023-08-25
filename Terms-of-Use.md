@@ -1,6 +1,6 @@
 
 #### Introduction
-##### Last updated: 2023-8-25
+Last updated: 2023-8-25
 #### Welcome to our app. By using our app, you agree to be bound by these terms of service. Please read them carefully before using our app.
 
 ### User Account
