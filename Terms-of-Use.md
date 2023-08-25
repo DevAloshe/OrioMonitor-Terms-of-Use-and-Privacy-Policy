@@ -46,7 +46,7 @@ shall be resolved exclusively by final and binding arbitration in your jurisdict
 
 We reserve the right to modify these terms of service at any time. You should review these terms regularly for changes. Your continued use of the app after any changes to these terms of service constitutes your agreement to such changes.
 
-    Termination
+#### Termination
         
-    We may terminate your account and/or your access to the app at any time, without notice, for any reason 
+ We may terminate your account and/or your access to the app at any time, without notice, for any reason 
 
