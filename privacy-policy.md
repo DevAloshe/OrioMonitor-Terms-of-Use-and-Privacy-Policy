@@ -4,9 +4,9 @@ Last updated: 2023-8-25
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you download, install, and use the OrioMonitor mobile application ("App").
 
-### Information We Collect
+#### Information We Collect
 
-## When you download, install, and use the App, we may collect certain information from you:
+### When you download, install, and use the App, we may collect certain information from you:
 
 Account Information: When you create an account within the App using your email address, password, or through Google Account sign-in, we collect the information necessary to provide you access to the App.
 Device Information: We may collect information about the devices you add to the App, such as device names, types (e.g., ubiquity devices, mikrotik, mimosa), and related information. This information will be stored in Google Firebase.
