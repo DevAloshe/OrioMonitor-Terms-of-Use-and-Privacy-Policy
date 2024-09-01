@@ -154,4 +154,4 @@ If you have any questions, concerns, or requests regarding this privacy policy o
 
 **Orio SAS Support**  
 **Email:** oriomonitor@gmail.com  
-**Address:** [Provide physical address if applicable for transparency]
+**Address:** Baghdad, Al-Mansour street, CAPITA organization Building , floor 2
